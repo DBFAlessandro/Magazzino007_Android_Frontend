@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string  name="secure" translatable="false"          >true</string>
+    <string  name="force_lang"       translatable="false">true</string>
+    <string  name="language"         translatable="false">it_IT</string>
+    <string  name="root" translatable="false">/</string>
+    <string  name="debug" translatable="false">false</string>
+    <string  name="service_prodotti" translatable="false">services/prodotti/p</string>
+    <string  name="service_login"    translatable="false">services/login</string>
+    <string  name="service_login_check" translatable="false">services/logincheck</string>
+    <string  name="service_logout"   translatable="false">services/logout</string>
+    <string  name="protocol_sec_d"     translatable="false">https://10.0.2.2:443</string>
+    <string  name="protocol_std_d"     translatable="false">http://10.0.2.2:8080</string>
+    <string  name="protocol_sec_r"     translatable="false">https://magazzino007.herokuapp.com</string>
+    <string  name="protocol_std_r"     translatable="false">http://magazzino007.herokuapp.com</string>
+    <string  name="authenticationheader" translatable="false">Authorization</string>
+
+</resources>

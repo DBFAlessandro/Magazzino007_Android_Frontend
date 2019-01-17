@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magazzino007</string>
+    <string name="prompt_email">Nome utente</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Username non valido</string>
+    <string name="error_invalid_password">Password troppo corta</string>
+    <string name="error_incorrect_password">Password non corretta</string>
+    <string name="error_field_required">Campo richiesto</string>
+    <string name="prodotti_id">ID</string>
+    <string name="prodotti_nome">NOME</string>
+    <string name="prodotti_descrizione">DESCRIZIONE</string>
+    <string name="prodotti_quantita">QUANTITA</string>
+    <string name="prodotti_prezzo">PREZZO</string>
+    <string name="color_header_footer">#3b5dab</string>
+    <string name="color_alternate_data_row">#94a9d7</string>
+    <string name="permission_rationale">Permessi mancanti</string>
+    <string name="errorserviceprefix" >ERRORE DI SERVIZIO: </string>
+    <string name="infoemptyproducts" >NESSUN RECORD DA MOSTRARE</string>
+    <string name="rememberme" >Aggiorna</string>
+    <string name="login">ENTRA</string>
+    <string name="logout">ESCI</string>
+    <string name="prodotti">PRODOTTI</string>
+    <string name="caricamento">Trasferimento dati...</string>
+    <string name="cliente">ID Cliente</string>
+</resources>

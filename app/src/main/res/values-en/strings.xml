@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Warehouse007</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">Contacts permissions are needed for providing email         completions.</string>
+    <string name="prodotti_id">ID</string>
+    <string name="prodotti_nome">NAME</string>
+    <string name="prodotti_descrizione">DESCRIPTION</string>
+    <string name="prodotti_quantita">QUANTITY</string>
+    <string name="prodotti_prezzo">PRICE</string>
+    <string name="color_header_footer">#3b5dab</string>
+    <string name="color_alternate_data_row">#94a9d7</string>
+    <string name="errorserviceprefix" >SERVICE ERROR: </string>
+    <string name="infoemptyproducts" >NO RECORDS TO SHOW</string>
+    <string name="rememberme" >Refresh</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="prodotti">PRODUCTS</string>
+    <string name="caricamento">Data exchange...</string>
+    <string name="cliente">Client ID</string>
+</resources>

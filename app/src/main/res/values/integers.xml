@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="cellwidth">6</integer>
+    <integer name="cellpadding">5</integer>
+    <integer name="user_length">2</integer>
+    <integer name="password_length">2</integer>
+</resources>
